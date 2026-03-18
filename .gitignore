@@ -1,0 +1,14 @@
+# Data
+*.mat
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Weights & Biases
+<<<<<<< HEAD
+wandb/
+=======
+wandb/
+>>>>>>> b5503a1 (W&B plots and gitignore change)
