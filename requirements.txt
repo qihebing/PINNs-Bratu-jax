@@ -1,0 +1,9 @@
+jax
+jaxlib
+flax
+optax
+wandb
+ml-collections
+scipy
+matplotlib
+numpy
